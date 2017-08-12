@@ -15,20 +15,17 @@ h2 {
   font-size: 47px;
 }
 
-text {
+.text {
   font-size: 21px;
   color: grey;
 }
 
-link {
+.link {
   color: aquamarine;
   font-size: 16px;
 }
 
-#video {
-  color: yellow;
-  background-color: yellow;
-  background-image: url("phone-frame.jpg");
+.footer {
+  text-align: right;
+  color: grey;
 }
-
-footer
